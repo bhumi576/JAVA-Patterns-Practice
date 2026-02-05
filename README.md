@@ -1,4 +1,3 @@
-# Java Pattern Programs
 
 🚀 Java DSA Practice
 
@@ -6,6 +5,9 @@ I have recently started learning Java, and this repository is created to store m
 
 The repository will be updated regularly as I learn new topics and practice more problems.
 All programs are written in a beginner-friendly way with simple logic and comments to understand concepts clearly.
+
+
+
 
 📚 What This Repo Includes (So Far)
 
@@ -19,6 +21,9 @@ Arrays (basic operations)
 
 Simple logic-building problems
 
+
+
+
 🎯 Purpose
 
 To track my Java learning journey
@@ -28,6 +33,9 @@ To practice and improve problem-solving skills
 To revise concepts easily
 
 To build consistency in coding
+
+
+
 
 🧑‍💻 Coding Style
 
